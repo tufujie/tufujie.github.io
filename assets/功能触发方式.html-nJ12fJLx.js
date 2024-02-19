@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper-x3n3nnut.js";import{o as _,c as n,a as l}from"./app-AuAuVshg.js";const t={},o=l("ul",null,[l("li",null,"快捷键"),l("li",null,"图标点击"),l("li",null,"界面点击"),l("li",null,"菜单点击"),l("li",null,"鼠标右击选择点击")],-1),c=[o];function s(r,i){return _(),n("div",null,c)}const f=e(t,[["render",s],["__file","功能触发方式.html.vue"]]);export{f as default};

@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper-x3n3nnut.js";import{o as t,c as n,a as l}from"./app-AuAuVshg.js";const o={},_=l("ul",null,[l("li",null,"顺序查找"),l("li",null,"二分查找"),l("li",null,"插值查找"),l("li",null,"斐波那契查找")],-1),c=[_];function s(r,a){return t(),n("div",null,c)}const f=e(o,[["render",s],["__file","搜索.html.vue"]]);export{f as default};

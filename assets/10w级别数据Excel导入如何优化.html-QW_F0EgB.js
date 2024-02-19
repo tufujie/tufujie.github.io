@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper-x3n3nnut.js";import{o as l,c as t,a as _}from"./app-AuAuVshg.js";const c={},o=_("ul",null,[_("li",null,"分治法"),_("li",null,"异步")],-1),n=[o];function s(r,a){return l(),t("div",null,n)}const f=e(c,[["render",s],["__file","10w级别数据Excel导入如何优化.html.vue"]]);export{f as default};

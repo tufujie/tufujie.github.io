@@ -1,0 +1,8 @@
+import{_ as i}from"./plugin-vue_export-helper-x3n3nnut.js";import{o as e,c as a,d as n}from"./app-AuAuVshg.js";const t="/assets/Git常用设置1-KS8Npf9N.png",s="/assets/Git常用设置2-ytgI9Cci.png",c={},o=n('<h2 id="中文乱码" tabindex="-1"><a class="header-anchor" href="#中文乱码" aria-hidden="true">#</a> 中文乱码</h2><figure><img src="'+t+`" alt="image-20231228092900823" tabindex="0" loading="lazy"><figcaption>image-20231228092900823</figcaption></figure><h3 id="解决方案" tabindex="-1"><a class="header-anchor" href="#解决方案" aria-hidden="true">#</a> 解决方案</h3><div class="language-git line-numbers-mode" data-ext="git"><pre class="language-git"><code>git config --global core.quotepath false
+<span class="token comment"># 在使用git log出现乱码上面一个设置不能解决问题需要再做以下设置</span>
+git config --global gui.encoding utf-8
+git config --global i18n.commit.encoding utf-8
+git config --global i18n.logoutputencoding utf-8
+<span class="token comment"># 添加到环境变量</span>
+export LESSCHARSET=utf-8 
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h3 id="效果显示" tabindex="-1"><a class="header-anchor" href="#效果显示" aria-hidden="true">#</a> 效果显示</h3><figure><img src="`+s+'" alt="image-20231228093323920" tabindex="0" loading="lazy"><figcaption>image-20231228093323920</figcaption></figure>',6),d=[o];function l(r,g){return e(),a("div",null,d)}const f=i(c,[["render",l],["__file","Git常用设置.html.vue"]]);export{f as default};

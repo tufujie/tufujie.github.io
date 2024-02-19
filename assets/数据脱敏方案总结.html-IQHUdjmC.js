@@ -1,0 +1,1 @@
+import{_}from"./plugin-vue_export-helper-x3n3nnut.js";import{o as e,c as t,a as o}from"./app-AuAuVshg.js";const c={},s=o("p",null,"数据脱敏说的就是我们根据特定的规则对敏感信息数据进行变形，比如我们把手机号、身份证号某些位数使用 * 来代替。",-1),n=[s];function r(a,l){return e(),t("div",null,n)}const m=_(c,[["render",r],["__file","数据脱敏方案总结.html.vue"]]);export{m as default};
